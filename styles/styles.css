@@ -1,3 +1,19 @@
+nav {
+    background-color: darkblue;
+    padding: auto;
+}
+
+nav a {
+    color: #fff;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+}
+
+h1 {
+    color: blue;
+}
+
 main {
     max-width: 840px;
 
@@ -6,7 +22,9 @@ main {
 main img {
     width: 150px;
     height: auto;
+    border: 1px solid gray;
     box-shadow: 0 0 30px #333;
+    padding: 1px;
 }
 
 aside {
