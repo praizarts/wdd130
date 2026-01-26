@@ -63,7 +63,6 @@ article {
 .socialmedia {
     display: flex;
     flex-direction: row;
-    gap: none;
 }
 
 .socialmedia a {
