@@ -247,5 +247,5 @@ footer p {
     text-align: center;
     margin: 0;
     font-size: 17px;
-    color: #ffffff;
+    color: var(--accent2-color);
 }
