@@ -208,7 +208,7 @@ figcaption {
 }
 
 footer {
-    background-color: rgb(44, 82, 44);
+    background-color: var(--accent1-color);
     padding: 15px 20px;
     display: grid;
     grid-template-columns: 1fr auto;
