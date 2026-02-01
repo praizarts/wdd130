@@ -1,8 +1,8 @@
 :root {
-    --primary-color: #043304;
+    --primary-color: #2c522c;
     --secondary-color: #f5b37e;
     --accent1-color: #172a31;
-    --accent2-color: #f0d877;
+    --accent2-color: #f5e39c;
     --heading-font: "Times New Roman", "Georgia", serif;
     --body-font: Arial, Helvetica, sans-serif;
 }
@@ -38,7 +38,7 @@ header {
 }
 
 header img {
-    width: 120px;
+    width: 90px;
     height: auto;
     margin-left: 20px;
 
