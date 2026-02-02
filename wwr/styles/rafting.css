@@ -208,7 +208,7 @@ figcaption {
 }
 
 footer {
-    background-color: rgba(3, 49, 3, 0.9);
+    background-color: var(--primary-color);
     padding: 15px 20px;
     display: grid;
     grid-template-columns: 1fr auto;
@@ -219,5 +219,5 @@ footer p {
     text-align: center;
     margin: 0;
     font-size: 17px;
-    color: #fff;
+    color: aquamarine;
 }
