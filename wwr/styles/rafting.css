@@ -207,7 +207,7 @@ figcaption {
 }
 
 footer {
-    background-color: black;
+    background-color: rgb(1, 22, 2);
     padding: 15px 20px;
     display: grid;
     grid-template-columns: 1fr auto;
@@ -218,5 +218,5 @@ footer p {
     text-align: center;
     margin: 0;
     font-size: 17px;
-    color: rgb(150, 238, 209);
+    color: #fff;
 }
